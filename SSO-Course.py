@@ -20,7 +20,7 @@ x = 1
 SECONDS_IN_X_HOUR = x * 60 * 60
 
 src = r"C:\Users\Swastik\Pictures\Screenshots" #Replace src with files folder
-dst = r"F:\2-2\{}" .format(today().strftime('%d %b')) #Replace dst to storage folder
+dst = New_Folder
 
 now = time.time()
 before = now - SECONDS_IN_X_HOUR
