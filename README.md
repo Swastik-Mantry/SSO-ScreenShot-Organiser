@@ -17,7 +17,7 @@ To prepare and hype-up myself for the upcoming semester, I thought I should ease
 4. Incase your lecture is/was of more than 1 hour, change the variable x to the number of hours your lecture is going to take place.
 5. Incase your work was one timer, you may now execute the program. Elsewise, depending on your OS you may undergo complete automation for an entire semester:
     - [Windows](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10) : Use Task Scheduler *(google for usage)* to set the timings for the execution of the various SSO-course python files at the time of end of each lecture to a weekly status.
-    - [Linux](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800) : Cronjob, as a linux-user you must be knowing it :no_mouth:
+    - [Linux](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800) : Cronjob, as a linux-user you must be knowing it! :no_mouth:
 
 ## Installation
 - Install Python *(Preferably 3.9 version)*
