@@ -4,7 +4,7 @@ Organize and automate the task of handling snaps of slides/lecture notes/files
 ## Motivation
 >Scored pretty low on my end-semester exams, as I didn't have good notes :cry:
 
->To prepare and hype-up myself for the upcoming semester, I thought I should ease up some work.So there it is, my motivation for building this program :blush:
+>To prepare and hype-up myself for the upcoming semester, I thought I should ease up some of my note-taking work. So there it is, my motivation for building this program :blush:
 
 ## How to use ?
 1. Download and open the SSO python file in any text-editor :computer:
@@ -16,7 +16,7 @@ Organize and automate the task of handling snaps of slides/lecture notes/files
     ```
     Replace with
      ```py
-        New_Folder = r"D:\2-2\M3\{}" .format(today().strftime('%I %p %d %b')) 
+        New_Folder = r"D:\2-2\M1\{}" .format(today().strftime('%I %p %d %b')) 
     ```
     - **src** string with the location of your Screenshot folder <br>
     TO know your Screenshot Folder, Open file explorer and click on the *Pictures* under *This PC* sub-heading. You should now be able to see the Screeenshot's folder.If not, google your way around :stuck_out_tongue_closed_eyes:
