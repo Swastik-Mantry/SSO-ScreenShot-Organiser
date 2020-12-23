@@ -42,4 +42,4 @@ After all this work, its time to consume the fruits of your labour.Take Screensh
 - Thats all, Unless you **do not** have the basic modules such as datetime, os, etc. present locally on your system. In that case, install them with pip or again google your way around :stuck_out_tongue_closed_eyes: 
 
 ## Built with
-- [Python] 
+- **Python** 
