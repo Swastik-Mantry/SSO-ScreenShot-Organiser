@@ -33,6 +33,10 @@ Organize and automate the task of handling snaps of slides/lecture notes/files
     - [Windows](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10) : Use **Task Scheduler** to set the timings for the execution of the various SSO-course python files at the time of end of each lecture to a weekly status.
     - [Linux](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800) : Use **Cronjob**, as a linux-user you must be knowing it! :no_mouth:
 
+
+After all this work, its time to consume the fruits of your labour.Take Screenshots with *Win + Prt Scr* or your set hotkey for taking Screenshots and let SSO handle the task of organising them into your study folder each course.
+#### NOTE 
+ Be sure to organise the time of execution of this program so that past 1 hour of SS are organized.For example, for the M1 course, if the class is from 3-3:50 PM, Schedule the SSO's execution at 3:55 PM so that all SS since 2:55 PM are organized into the M1 folder.
 ## Installation
 - Install Python *(Preferably 3.9 version)*
 - Thats all, Unless you **do not** have the basic modules such as datetime, os, etc. present locally on your system. In that case, install them with pip or again google your way around :stuck_out_tongue_closed_eyes: 
