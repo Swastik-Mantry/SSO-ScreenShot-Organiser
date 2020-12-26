@@ -1,5 +1,5 @@
 # SSO-ScreenShot-Organiser
-Organize and automate the task of handling snaps of slides/lecture notes/files. Basically, arranges files created/modifed within a certain time interval from one folder into another folder.
+Organize and automate the task of handling snaps of slides/lecture notes/files. Basically, move files created/modifed within a certain time interval from one folder into another folder.
 
 ## Motivation
 >Scored pretty low on my end-semester exams, as I didn't have good notes :cry:
